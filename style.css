@@ -126,6 +126,16 @@ button:focus {
     outline: none;
 }
 
+#userScore{
+    font-weight: 300;
+    position: absolute;
+    text-align: center;   
+    height: 50px;
+    right: 43%;
+    bottom: 40%;
+    box-shadow: 4px 3px 10px black;
+}
+
 i {
     color: #EB4D4D;
     display: inline-block;
